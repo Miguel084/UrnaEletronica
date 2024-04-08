@@ -1,0 +1,11 @@
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.AssemblyReference.cache
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.cache
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Resultado.resources
