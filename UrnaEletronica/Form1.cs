@@ -61,6 +61,11 @@ namespace UrnaEletronica
                     lblNomeCandidato.Text = "Guilherme Anastacio";
                     lblNomeCandidato.Visible = true;
                     break;
+                case "24":
+                    panel7.BackgroundImage = Image.FromFile("guigui.jpg");
+                    lblNomeCandidato.Text = "Guilherme Anastacio";
+                    lblNomeCandidato.Visible = true;
+                    break;
                 default:
                     MessageBox.Show("Você precisa informar um voto válido!");
                     Limpar();
@@ -166,6 +171,10 @@ namespace UrnaEletronica
                         guigui++;
                         Limpar();
                         break;
+                    case "24":
+                        guigui++;
+                        Limpar();
+                        break;
                     default:
                         MessageBox.Show("Você precisa informar um voto válido!");
                         break;
@@ -185,6 +194,12 @@ namespace UrnaEletronica
         {
             Resultado resultado = new Resultado(silvio, faustao, gloria, madruga, branco, guigui);
             resultado.ShowDialog();
+        }
+
+        private void btnListar_Click(object sender, EventArgs e)
+        {
+            Cadidatos cadidatos = new Cadidatos();
+            cadidatos.ShowDialog();
         }
     }
 }

@@ -9,3 +9,4 @@ C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletron
 C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
 C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
 C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Resultado.resources
+C:\Users\alegr\RiderProjects\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Cadidatos.resources

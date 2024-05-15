@@ -46,6 +46,12 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Cadidatos.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="Cadidatos.Designer.cs">
+          <DependentUpon>Cadidatos.cs</DependentUpon>
+        </Compile>
         <Compile Include="Form1.cs">
             <SubType>Form</SubType>
         </Compile>
@@ -60,6 +66,9 @@
         <Compile Include="Resultado.Designer.cs">
           <DependentUpon>Resultado.cs</DependentUpon>
         </Compile>
+        <EmbeddedResource Include="Cadidatos.resx">
+          <DependentUpon>Cadidatos.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
         </EmbeddedResource>
